@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkamply_tools=self.webpackChunkamply_tools||[]).push([[1903],{1912:l=>{l.exports=JSON.parse('{"blogBasePath":"/amply-tools/blog","blogTitle":"Blog","authorsListPath":"/amply-tools/blog/authors"}')}}]);
