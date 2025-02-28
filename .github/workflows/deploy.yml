@@ -17,7 +17,7 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 18
-          cache: pnpm
+          # Removed cache: pnpm since it isn't supported
 
       - name: Install pnpm
         run: |
