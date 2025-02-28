@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkamply_tools=self.webpackChunkamply_tools||[]).push([[5296],{4417:l=>{l.exports=JSON.parse('{"metadata":{"permalink":"/amply-tools/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
